@@ -1,59 +1,59 @@
 {
 	"user":"exampleUser",
 	"password":"examplePassword",
-	"team":"Sableye @ Sablenite  
-Ability: Prankster  
-EVs: 252 HP / 4 Def / 252 SpD  
-Careful Nature  
-- Will-O-Wisp  
-- Recover  
-- Foul Play  
-- Knock Off  
+	"team":"Lucario @ Rocky Helmet  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Extreme Speed  
+- Ice Punch  
 
-Jirachi @ Leftovers  
-Ability: Serene Grace  
-EVs: 252 HP / 176 SpD / 80 Spe  
-Careful Nature  
-- Stealth Rock  
-- Iron Head  
-- Wish  
-- Protect  
-
-Tentacruel @ Black Sludge  
-Ability: Clear Body  
-EVs: 214 HP / 186 SpD / 108 Spe  
-Calm Nature  
-- Haze  
-- Scald  
-- Toxic Spikes  
-- Rapid Spin  
-
-Chansey @ Eviolite  
-Ability: Natural Cure  
-EVs: 252 Def / 252 SpD / 4 Spe  
-Impish Nature  
-- Soft-Boiled  
-- Seismic Toss  
-- Aromatherapy  
-- Toxic  
-
-Tangrowth @ Leftovers  
-Ability: Regenerator  
-EVs: 252 HP / 4 Def / 252 SpD  
-Sassy Nature  
-- Knock Off  
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Lax Nature  
+- Heavy Slam  
 - Leech Seed  
-- Giga Drain  
-- Sludge Bomb  
+- Protect  
+- Flash Cannon  
 
-Quagsire @ Leftovers  
-Ability: Unaware  
-EVs: 252 HP / 252 Def / 4 SpD  
-Relaxed Nature  
-- Scald  
-- Earthquake  
-- Recover  
-- Toxic",
-	"leadPokemon":"Sableye",
+Gallade @ Galladite  
+Ability: Justified  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- Psycho Cut  
+- Ice Punch  
+- Close Combat  
+
+Metagross @ Metagrossite  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Agility  
+- Meteor Mash  
+- Ice Punch  
+- Zen Headbutt  
+
+Toxicroak @ Black Sludge  
+Ability: Dry Skin  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Nasty Plot  
+- Dark Pulse  
+- Vacuum Wave  
+- Sludge Wave  
+
+Hoopa @ Life Orb  
+Ability: Magician  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+- Trick Room  
+- Psyshock  
+- Shadow Ball  
+- Focus Blast,
+	"leadPokemon":"Metagross",
 	"botMethod":"Staller"
 }
